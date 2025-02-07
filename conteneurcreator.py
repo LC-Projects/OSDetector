@@ -66,7 +66,7 @@ def main():
     print("1 - Créer et démarrer un conteneur")
     print("2 - Arrêter un conteneur")
     print("3 - Supprimer un conteneur")
-    print("4 - Lister les conteneurs ")
+    print("4 - Lister les conteneurs")
 
     # Demander à l'utilisateur de choisir une action
     action = input("Entrez le numéro de l'action souhaitée (1/2/3/4) : ")
